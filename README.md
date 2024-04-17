@@ -37,6 +37,7 @@
         <li>Outputs to be saved in output/</li>
     </ul>
     <h2>Contact</h2>
-    <p>For additional support or questions regarding the workflow, please contact <a href="mailto:ashif.rahman@uleth.ca">Ashif Rahman</a></p>
+    <p>Prepared by Ashif Rahman, March 24, 2024. 
+    For additional support or questions regarding the workflow, please contact <a href="mailto:ashif.rahman@uleth.ca">Ashif Rahman</a></p>
 </body>
 </html>
